@@ -1,4 +1,4 @@
-# Questoes Objetivas de Computacao Grafica
+# Questoes Objetivas de Computacao Grafica (EASY)
 
 Baseadas nos exercicios praticos fornecidos.
 
