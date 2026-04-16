@@ -1,4 +1,4 @@
-# Questoes Objetivas de Computacao Grafica
+# Questoes Objetivas de Computacao Grafica (HARDER)
 
 Versao pensada no estilo de um professor que ensina Pygame, PyOpenGL e OpenCV com foco em jogos.
 
